@@ -10,7 +10,7 @@ Adding changes for example!
 
 Changes as part of automatic merge example!
 
-## Update from master
+## Update from master 2
 
 This is going to be painful but we will deal with it!
 
