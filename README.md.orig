@@ -10,6 +10,14 @@ Adding changes for example!
 
 Changes as part of automatic merge example!
 
-## Causing trouble
+## Update from master 2
+
+This is going to be painful but we will deal with it!
 
 Since I plan to edit same file this could case a conflict!
+
+<<<<<<< HEAD
+# MMAQ-22-22
+=======
+# MMAQ-22-11
+>>>>>>> mm-branch2
