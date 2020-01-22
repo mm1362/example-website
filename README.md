@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ### MM
 MMAQ
 
-# Master Conflict
+# MM Conflict
