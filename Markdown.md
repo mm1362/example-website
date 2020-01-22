@@ -27,7 +27,7 @@ This is another link to [Google][mySite].
 [mySite]:https://google.com ("The google website")
 
 #### Forth Level Heading
-![star](tile.png)
+![star](tile-wide.png)
 
 ##### Fifth Level Heading
 | Header One  | Header Two  |Header Tree  |
