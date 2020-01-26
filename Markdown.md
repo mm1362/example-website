@@ -10,13 +10,11 @@ this is a __bold__ text.
 
 
 ## Second Level Heading
-this is a bold text.
-this is a bold text.
+Two spaces at the end of a line  
+produces a line break.
 
-Second Level Heading
+Second Level Heading by --
 --
-this is a bold text.
-this is a bold text.
 
 ### Third Level Heading
 This is a link to [Google](https://google.com).
